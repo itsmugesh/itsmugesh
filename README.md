@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Mugesh
 
-<!--
-**itsmugesh/itsmugesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack PHP & Drupal developer with 3+ years of experience.  
+🔧 Passionate about building scalable web apps, clean code, and open-source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I Do
+
+- Drupal theming, modules, and API integrations  
+- Multilingual site development  
+- Docker-based development & deployment  
+- Social platform integrations (FB, Twitter, Insta)
+
+---
+
+## 🛠 Tech I Use
+
+**Languages**: PHP, JS, HTML, CSS  
+**CMS**: Drupal (8 → 11)  
+**Tools**: Docker, Nginx, MySQL, Composer, Git, Drush
+
+---
+
+## 🌍 Let's Connect
+
+- 📫 [mugeshs2310@gmail.com](mailto:mugeshs2310@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mugesh-s-116747224/)  
+- 🌐 [Portfolio](https://example.com)  
+- 🐘 [Drupal.org](https://www.drupal.org/u/mugeshs)
+
+---
+
+![Mugesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmugesh&show_icons=true&theme=radical)
+
+---
+
+> 💬 *“Code is like humor. If you have to explain it, it’s bad.”* — Cory House
